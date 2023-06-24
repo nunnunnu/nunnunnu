@@ -3,5 +3,5 @@
 <a href="https://github.com/nunnunnu"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunnunnu&layout=compact" /></a> 
 <br>
 
-[![nunnunnu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nunnunnu&theme=nord)](https://github.com/nunnunnu/github-readme-activity-graph)
+[![nunnunnu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nunnunnu&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![footer](https://capsule-render.vercel.app/api?&section=footer&type=waving&color=gradient&height=250)
