@@ -1,6 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=˚*₊JinHee_code˚*₊&fontSize=90)
-<a href="https://github.com/nunnunnu"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=nunnunnu&show_icons=true&theme=buefy" alt="SOKURI's github stats" /></a>
-<br>
 
-[![nunnunnu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nunnunnu&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,spring,ts,nestjs,mysql,postgres,redis,rabbitmq,aws,docker,jenkins&perline=12" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nunnunnu&theme=buefy" />
+  <img height="170" src="https://streak-stats.demolab.com?user=nunnunnu&theme=buefy&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nunnunnu&theme=buefy" />
+</p>
+
 ![footer](https://capsule-render.vercel.app/api?&section=footer&type=waving&color=gradient&height=250)
